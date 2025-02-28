@@ -1,4 +1,4 @@
-class RumusMtk:
+class RumusMatematika:
     def tambah(a, b):
         return a + b
         
